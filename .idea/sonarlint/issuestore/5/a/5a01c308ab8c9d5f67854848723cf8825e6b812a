@@ -1,0 +1,10 @@
+
+fpython:S1192Z"HDefine a constant instead of duplicating this literal '45 + 43' 6 times.(ÀçÆC8ª˜å‚­0
+hpython:S1192X"IDefine a constant instead of duplicating this literal '3801 - 2' 5 times.(½Çö’8¬˜å‚­0
+hpython:S1192X"IDefine a constant instead of duplicating this literal '123 + 49' 8 times.(½Çö’8­˜å‚­0
+=python:S125"Remove this commented out code.(Ùâ¶Þ8­˜å‚­0
+{python:S1175"]Rename this local variable "primerNumero" to match the regular expression ^[_a-z][a-z0-9_]*$.(–¨Œ˜8®˜å‚­0
+|python:S1177"^Rename this local variable "segundoNumero" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê‡´ë8®˜å‚­0
+spython:S3776("TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¼ÅŽÿ8¯˜å‚­0
+Tpython:S63972"5Replace this character class by the character itself.(¹æìð8¯˜å‚­0
+=python:S125f"Remove this commented out code.(Ùâ¶Þ8°˜å‚­0

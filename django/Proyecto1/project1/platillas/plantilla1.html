@@ -1,0 +1,34 @@
+    <html>
+        <body>
+        {% include "plantsuperior/barra.html" %}
+        <h1 style="color: lightblue">
+        Hooliiz mi cielitaaa <3
+        </h1>
+        {# se puede comentar una sola linea asi #}
+        {% comment %} tambien se puede
+        hacer asi
+        en distintas lineas
+        {% endcomment %}
+        <h1 style="color: red">
+            Teeee amoooo mutititititizizimooo
+        </h1>
+        <p> <strong> le digo {{nombre_persona}} {{apellido_persona}} </strong></p>
+        <p> Ezta ez la fecha ke le digo ke la amo {{fecha.day}} / {{fecha.month}} / {{fecha.year}}</p>
+        <p> Zu nombre es {{nombre.upper}} y zu apellido es {{apellido|lower|title}}</p>
+        <p style="color:red"> De ella amo todo esto {{todo}}, especialemte {{todo.0}}</p>
+        <p>
+            <ul>
+            {% if todo %}
+                {% for cosas in todo%}
+
+                    <li style="color:green">{{cosas}} </li>
+
+                {% endfor %}
+            {% else %}
+                <p> No hay elementos que mostrar </p>
+            {% endif %}
+
+            </ul>
+        </p>
+    </body>
+    </html>
