@@ -1,0 +1,11 @@
+camilurus
+osita1406
+
+franbot
+fran1999
+
+franc
+zaq10147
+
+send_mail("prueba de asunto","este seria el mensaje","franciscopuma2014@g
+mail.com",["franciscopuma99@gmail.com"],fail_silently=False,)

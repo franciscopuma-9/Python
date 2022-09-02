@@ -48,3 +48,10 @@ Q
 !django/Proyecto1/project1/urls.py,a\6\a662b0a83851090a5c0d3cc6aee5ffa4eaae91c6
 C
 BBDD/segundaBBDD.py,c\0\c05d310f77828f1b3354bd8d501164e3696465c8
+=
+ejercicios.py,9\5\95a6ae5fb9610f5cf40eb989b19c5bee11517e3a
+:
+
+cadenas.py,a\b\ab3bca796b0a0294c34d471d6bcd3e9df764cff8
+u
+Edjango/TiendaOnline/GestionPedidos/templates/resultados_busqueda.html,6\1\6161a76aebb6c75a0079f54d55ff723353d619f5
