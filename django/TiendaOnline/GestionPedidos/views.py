@@ -55,13 +55,14 @@ def contacto(request):
 
             infForm = miFormulario.cleaned_data
 
-            send_mail(infForm['asunto'],infForm['mensaje'],infForm.get('email','franciscopuma2014@gmail.com'),['franciscopuma2014@gmail.com'],)
+            send_mail(infForm['asunto'],infForm['mensaje'],infForm.get('email',''),[''],)
 
             return render(request,'gracias.html')
 
     else:
 
         miFormulario = FormularioContacto()
+
 
 
     return render(request,"formulario_contacto.html",{'form':miFormulario})
