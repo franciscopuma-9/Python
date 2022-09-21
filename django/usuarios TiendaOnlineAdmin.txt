@@ -7,5 +7,11 @@ fran1999
 franc
 zaq10147
 
+
+santi
+manco123	
+
+
+
 send_mail("prueba de asunto","este seria el mensaje","franciscopuma2014@g
 mail.com",["franciscopuma99@gmail.com"],fail_silently=False,)

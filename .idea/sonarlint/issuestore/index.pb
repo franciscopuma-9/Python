@@ -42,8 +42,6 @@ M
 io/clases.py,c\1\c1e95f3ff41e2a266e187d1bff056ac88e0a1b7e
 7
 fcc3.py,1\8\185c80f126b651f225695b71894af33773fd95c2
-7
-fcc4.py,a\5\a5d9d7496c55917854bc392f2edfe38797317305
 Q
 !django/Proyecto1/project1/urls.py,a\6\a662b0a83851090a5c0d3cc6aee5ffa4eaae91c6
 C
@@ -53,5 +51,31 @@ C
 :
 
 cadenas.py,a\b\ab3bca796b0a0294c34d471d6bcd3e9df764cff8
+\
+,django/TiendaOnline/GestionPedidos/models.py,b\d\bd20c95167344b8c9212360461f3f71de9344be4
+i
+9django/TiendaOnline/GestionPedidos/templates/gracias.html,2\8\28e906315a3dca479012592cdcf363e20518ecda
+[
++django/TiendaOnline/GestionPedidos/forms.py,e\e\ee6f7727172e2f45d27ee18c3bfe35c9fc7cb2b2
+7
+fcc4.py,a\5\a5d9d7496c55917854bc392f2edfe38797317305
+9
+	ruleta.py,9\c\9cfe3047126aa0ffc9769d455ca1e1408ff1b108
+u
+Edjango/TiendaOnline/GestionPedidos/templates/formulario_contacto.html,3\d\3deb3034cccbf408d066ba612bc069e997d73d09
+t
+Ddjango/TiendaOnline/GestionPedidos/templates/busqueda_productos.html,9\e\9e3017f80b713fa49c4748dfa15df6a151f64f4a
 u
 Edjango/TiendaOnline/GestionPedidos/templates/resultados_busqueda.html,6\1\6161a76aebb6c75a0079f54d55ff723353d619f5
+j
+:django/TiendaOnline/GestionPedidos/templates/contacto.html,6\4\649de58679f82fe4f63570909e0db97b8ac90556
+U
+%interfaz grafica/segunda_interfaz.pyw,7\4\74f8918186a1c8e26881e673a832ad234bd03ddf
+T
+$interfaz grafica/primer_interfaz.pyw,b\b\bb67a37d061dbecedc0e6a6f63724c3dabb9ac88
+;
+pruebita.py,0\9\096a1800f015d4130728a56f017fd0ef217cee64
+T
+$django/TiendaOnline/requirements.txt,d\4\d43b3d27d97ee31a4d877644b8dcd007e9519dd8
+\
+,django/TiendaOnline/TiendaOnline/runtime.txt,7\0\70b011cc412674c39f11b20078ca69cc77a01866
