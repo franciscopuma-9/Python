@@ -16,20 +16,16 @@ miCursor = miConexion.cursor()
 # ]
 # miCursor.executemany("INSERT INTO PRODUCTOS VALUES (?,?,?)",variosProductos)
 
-miCursor.execute("SELECT * FROM PRODUCTOS")
+miCursor.execute("SELECT * FROM PRODUCTOS WHERE PRECIO=10")
 
 variosProductos = miCursor.fetchall() #devuelve una lista de los productos
-
+print(variosProductos)
 for valor in variosProductos:
     print(valor)
 
 
 
 miConexion.commit()
-
-
-
-
 
 
 miConexion.close()

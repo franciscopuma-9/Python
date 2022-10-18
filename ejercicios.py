@@ -72,7 +72,6 @@
 # else:
 #     print("No es palindromo")
 
-
 #9
 # precios = [50, 75, 46, 22, 80, 65, 8]
 # precios.sort()
@@ -85,5 +84,4 @@
 # vector_2 = [-1, 0, 2]
 # producto_vectorial = vector_1[0]*vector_2[0] + vector_1[1]*vector_2[1] + vector_1[2]*vector_2[2]
 # print(producto_vectorial)
-
 

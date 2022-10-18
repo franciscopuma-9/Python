@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebScraping/getdolar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/django/TiendaOnline" vcs="Git" />
   </component>
 </project>
