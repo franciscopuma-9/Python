@@ -20,3 +20,7 @@ for pj in pjs:
 with open('Personajes.txt', 'w') as file:
   for x in lista_pj:
     file.write(x+'\n')
+
+with open('Champs.tuvieja','w') as tuvieja:
+  for x in lista_pj:
+    tuvieja.write(x+'\n')

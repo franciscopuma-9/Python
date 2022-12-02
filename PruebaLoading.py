@@ -48,7 +48,7 @@ for i in tqdm(range(100)):
 
 
 
-import sys
+import pruebas_os
 
 
 def progressbar(it, prefix="", size=60, file=sys.stdout):

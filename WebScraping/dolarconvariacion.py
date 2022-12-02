@@ -20,6 +20,5 @@ aux_venta = venta.split('\n')
 precio_venta = aux_venta[1]
 variacion_venta = aux_venta[2]
 
-
 print('Precio compra: ' + precio_compra + ' Variacion: ' + variacion_compra)
 print('Precio venta: ' + precio_venta + ' Variacion: ' + variacion_venta)

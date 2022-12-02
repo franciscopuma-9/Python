@@ -23,25 +23,25 @@
 # saltos de linea"""
 #
 #
-# variable1 = 'hola'
-# variable2 = 'mundo'
-# resultado = variable1 + variable2
-# print(resultado)
-# print('%s como estas mi %s'%(variable1,variable2))
-# print('Hola {}'.format(variable2))
-# my_string = 'Hola como estas'
-# print(my_string[0]) #posicion adentro del string
-# print(my_string[0:7]) #entorno
-# print(my_string[0:7:2]) #entorno salteado(ultimo numero es cantidad de saltos)
-# print(my_string[::-1]) #revertir string
-# my_string = my_string.lower() #todo minuscula
-# my_string = my_string.upper() #todo mayuscula
-# my_string = my_string.title() #modo titulo(c/palabra empieza en mayuscula)
-# #BUSQUEDA
-# busqueda = my_string.find('como') #retorna la posicion en la que empieza la palabra
-# count = my_string.count('s') #recuento de cantidad de una letra
-# reemplazar = my_string.replace('s','x')#reemplaza las 's' por 'x'
-# split = my_string.split(' ')#retorna una lista de los strings separados por espacios
+variable1 = 'hola'
+variable2 = 'mundo'
+resultado = variable1 + variable2
+print(resultado)
+print('%s como estas mi %s'%(variable1,variable2))
+print('Hola {}'.format(variable2))
+my_string = 'Hola como estas'
+print(my_string[0]) #posicion adentro del string
+print(my_string[0:7]) #entorno
+print(my_string[0:7:2]) #entorno salteado(ultimo numero es cantidad de saltos)
+print(my_string[::-1]) #revertir string
+my_string = my_string.lower() #todo minuscula
+my_string = my_string.upper() #todo mayuscula
+my_string = my_string.title() #modo titulo(c/palabra empieza en mayuscula)
+#BUSQUEDA
+busqueda = my_string.find('como') #retorna la posicion en la que empieza la palabra
+count = my_string.count('s') #recuento de cantidad de una letra
+reemplazar = my_string.replace('s','x')#reemplaza las 's' por 'x'
+split = my_string.split(' ')#retorna una lista de los strings separados por espacios
 
 # FUNCIONES  #conjunto de lineas de codigo(bloque)que funcionan para realizar una tarea especifica
 #             #se puede reutilizar codigo
@@ -77,13 +77,13 @@
 # nombreLista.remove(1) #remueve todos los 1 en la lista
 # nombreLista.extend([3,True,'Valor'])#extiende la lista (se puede usar otra lista para unirlas)
 # nombreLista.index('mundo') #devuelve el indice de 'mundo'
-# ultimo_valor = nombreLista.pop()#elimina y devulve el ultimo valor de la lista
+# ultimo_valor = nombreLista.pop() #elimina y devulve el ultimo valor de la lista
 # cuarto_valor = nombreLista.pop(4) #elimina el valor en la posicion 4 y lo devuelve
 # print("mundo" in nombreLista) #devuelve True/False si se encuentra en la lista
 #  #repite 3 veces la lista
 # nombreLista3 = nombreLista + nombreLista2 #concatena 2 listas
 # nombreLista.sort() # ordena la lista de menor a mayor
-# nombreLista.sort(reverse=) #ordena la lista de mayor a menor
+# nombreLista.sort(reverse=True) #ordena la lista de mayor a menor
 # print(nombreLista)
 #
 # TUPLAS #listas inmutables, no cambian
