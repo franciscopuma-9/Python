@@ -1,8 +1,0 @@
-
-_python:S2208"GImport only needed names or import the module and then use its members.(ï€¢
-kpython:S1542"SRename function "infoAdicional" to match the regular expression ^[a-z_][a-z0-9_]*$.(şúæ£
-kpython:S1542
-"SRename function "avisoLicencia" to match the regular expression ^[a-z_][a-z0-9_]*$.(½ÚóÌ
-rpython:S1542"URename function "salirAplicacion" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜³Àıøÿÿÿÿ
-6python:S125"Remove this commented out code.( ûå¨
-mpython:S1542"URename function "cerrarDocumento" to match the regular expression ^[a-z_][a-z0-9_]*$.(¬ü…·

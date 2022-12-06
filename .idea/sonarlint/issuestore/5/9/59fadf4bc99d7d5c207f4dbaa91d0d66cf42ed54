@@ -1,7 +1,0 @@
-
-;python:S125"Remove this commented out code.(¥Ş‹şÿÿÿÿ
-Lpython:S1172"/Remove the unused function parameter "request".(ŸñÅøûÿÿÿÿ
-Gpython:S11721"/Remove the unused function parameter "request".(Ñê·ô
-Lpython:S1172?"/Remove the unused function parameter "request".(ˆùë‡şÿÿÿÿ
-wpython:S117B"[Rename this local variable "edadFutura" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë«Ê¶şÿÿÿÿ
-npython:S1542?"QRename function "calculaEdad" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆùë‡şÿÿÿÿ
