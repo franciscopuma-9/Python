@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8305ff72-a5b7-4811-8816-536b6e5defec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebScraping/getdolar" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraping/getdolar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/asgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/settings.py" afterDir="false" />
