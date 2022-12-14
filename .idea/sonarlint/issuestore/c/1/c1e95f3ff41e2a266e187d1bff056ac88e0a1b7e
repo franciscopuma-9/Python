@@ -1,0 +1,10 @@
+
+ipython:S100"MRename method "setNombre" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ë¬ß¯þÿÿÿÿ
+gpython:S100"KRename method "setEdad" to match the regular expression ^[a-z_][a-z0-9_]*$.(ú‹¢›þÿÿÿÿ
+fpython:S100"JRename method "setDni" to match the regular expression ^[a-z_][a-z0-9_]*$.(öã¡¾üÿÿÿÿ
+dpython:S100&"MRename method "getNombre" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦™€¬
+gpython:S100)"KRename method "getEdad" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒ‡Íåþÿÿÿÿ
+fpython:S100,"JRename method "getDni" to match the regular expression ^[a-z_][a-z0-9_]*$.(ßóó“ûÿÿÿÿ
+hpython:S1002"QRename method "esMayorDeEdad" to match the regular expression ^[a-z_][a-z0-9_]*$.(°ç‰È
+6python:S1259"Remove this commented out code.(Á•úÜ
+;python:S125C"Remove this commented out code.(Ÿ‚€•üÿÿÿÿ
