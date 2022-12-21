@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8305ff72-a5b7-4811-8816-536b6e5defec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/introspeccion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/metodoClase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/metodoEstatico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/metodosEspeciales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/metodosIntancia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/polimorfismo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/pruebas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPythonProfesional/variableInstancia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xd3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebScraping/getdolar" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraping/getdolar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="8305ff72-a5b7-4811-8816-536b6e5defec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +50,28 @@
       <recent name="C:\Users\franc\PycharmProjects\estudios\django\Proyecto1\project1\platillas\plantsuperior" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.introspeccion">
+  <component name="RunManager" selected="Python.Project1.pyw">
+    <configuration name="Project1.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proyecto1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proyecto1/Project1.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="introspeccion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,48 +114,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="metodoEstatico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="estudios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPythonProfesional" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoPythonProfesional/metodoEstatico.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="metodosEspeciales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="estudios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPythonProfesional" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\franc\PycharmProjects\estudios\CursoPythonProfesional\metodosEspeciales.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="property" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pruebabbdd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,11 +143,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPythonProfesional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BBDD" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\franc\PycharmProjects\estudios\CursoPythonProfesional\property.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BBDD/pruebabbdd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Project1.pyw" />
+        <item itemvalue="Python.pruebabbdd" />
+        <item itemvalue="Python.views" />
         <item itemvalue="Python.introspeccion" />
         <item itemvalue="Python.polimorfismo" />
-        <item itemvalue="Python.property" />
-        <item itemvalue="Python.metodosEspeciales" />
-        <item itemvalue="Python.metodoEstatico" />
       </list>
     </recent_temporary>
   </component>
