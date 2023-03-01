@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8305ff72-a5b7-4811-8816-536b6e5defec" name="Changes" comment="" />
+    <list default="true" id="8305ff72-a5b7-4811-8816-536b6e5defec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/Chunks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/Encabezados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/MethodGET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/MethodPOST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/OAuth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/ObtenerJSON.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/PUT&amp;DELETE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumirAPI/PokeAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastApi/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastApi/routers/basic_auth_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastApi/routers/products.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastApi/routers/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoL/firsttry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoL/secondtry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto1/functionsProject1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto1/functionsProject1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraping/Champs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraping/Champs.tuvieja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraping/Personajes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraping/champs.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraping/champs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraping/getdolar" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraping/getdolar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWeb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWeb/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/contacto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/servicios.html" beforeDir="false" afterPath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/servicios.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/tienda.html" beforeDir="false" afterPath="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/templates/ProyectoWebApp/tienda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ProyectoWeb/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django/ProyectoWeb/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/TiendaOnline/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/TiendaOnline/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/TiendaOnline/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pruebasapo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pruebasapo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +57,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29wzT5LHz7jCcqVBxR1GTFUuxfE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,13 +82,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\franc\PycharmProjects\estudios\FastApi\routers" />
       <recent name="C:\Users\franc\PycharmProjects\estudios\Proyecto1" />
       <recent name="C:\Users\franc\PycharmProjects\estudios\django\Proyecto1\project1\platillas" />
       <recent name="C:\Users\franc\PycharmProjects\estudios\django\Proyecto1\project1\platillas\plantsuperior" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Project1.pyw">
-    <configuration name="Project1.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.champs">
+    <configuration name="champs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proyecto1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebScraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proyecto1/Project1.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebScraping/champs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="introspeccion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPythonProfesional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FastApi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoPythonProfesional/introspeccion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FastApi/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="music" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPythonProfesional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoPythonProfesional/polimorfismo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/music.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pruebabbdd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="products" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BBDD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FastApi/routers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BBDD/pruebabbdd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FastApi/routers/products.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FastApi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/ProyectoWeb/ProyectoWebApp/views.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\franc\PycharmProjects\estudios\FastApi\routers\users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Project1.pyw" />
-        <item itemvalue="Python.pruebabbdd" />
-        <item itemvalue="Python.views" />
-        <item itemvalue="Python.introspeccion" />
-        <item itemvalue="Python.polimorfismo" />
+        <item itemvalue="Python.champs" />
+        <item itemvalue="Python.products" />
+        <item itemvalue="Python.music" />
+        <item itemvalue="Python.users" />
+        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +244,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

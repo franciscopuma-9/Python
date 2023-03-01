@@ -6,6 +6,7 @@ def conectar():
     except sqlite3.OperationalError:
         messagebox.showerror("Conexion","Ya se creo la base de datos")
 
+
 def salir(root):
     valor =messagebox.askokcancel("Salir","Desea salir de la app?")
 

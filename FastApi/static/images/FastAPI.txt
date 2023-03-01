@@ -1,0 +1,5 @@
+uvicorn main:app --reload #--reload #recarga para ver lo cambios directamente
+
+#documentacion
+/docs
+/redoc
